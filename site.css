@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+	body{
+	font-family: "Times New Roman",serif;
+	background-color:#F2FFFC;
+	font-size: 120%;
+	}
+	h1{
+	text-align: center;
+	background-color:#851944;
+	color: #FFF;
+	}
+	
+	h1,h2{
+	font-family: "arial",sans-serif;		
+	}
+	
+	p{
+	text-align: justify;
+	}
+	
+	
+	
